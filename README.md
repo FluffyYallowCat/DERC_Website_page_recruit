@@ -1,2 +1,4 @@
 # DERC_Website_page_recruit
-recruit.html
+
+メンバー募集のサイトページ
+（ホームページの”メンバー募集のリンクをクリックした時に飛ぶサイト”）
